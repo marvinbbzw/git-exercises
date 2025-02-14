@@ -1,0 +1,1 @@
+Bei der Aufgabe 3 sind die beiden Textdateien foo und bar noch nicht geaddet, was sich dann in aufgabe 4 ändert.
